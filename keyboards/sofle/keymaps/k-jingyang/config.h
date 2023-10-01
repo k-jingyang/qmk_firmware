@@ -4,5 +4,3 @@
 see https://docs.qmk.fm/#/feature_split_keyboard?id=setting-handedness
 for more options.
 */
-
-#define ENCODER_RESOLUTIONS_RIGHT { 4 }
